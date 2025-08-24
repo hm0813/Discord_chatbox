@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://discord.gg/YOUR_INVITE_LINK">
+  <a href="https://discord.gg/ePnkKYcfjj">
     <img alt="Join our Discord" src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://github.com/hm0813/Discord_chatbox/stargazers">
@@ -8,6 +8,12 @@
   </a>
   <img alt="Made with Python" src="https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
 </p>
+
+## 🌍 Try It Live
+
+You don’t need to set up anything — just join the public server and use `/chat`:
+
+👉 **Join now:** https://discord.gg/ePnkKYcfjj
 
 
 ```markdown
