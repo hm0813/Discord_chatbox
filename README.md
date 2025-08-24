@@ -9,6 +9,11 @@
   <img alt="Made with Python" src="https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
 </p>
 
+
+<h1 align="center">⚡ PotterVerse ChatBot</h1>
+<p align="center">Chat with Harry, Hermione, Ron, Snape, Dumbledore, and Luna — right inside Discord.</p>
+
+
 ## 🌍 Try It Live
 
 You don’t need to set up anything — just join the public server and use `/chat`:
