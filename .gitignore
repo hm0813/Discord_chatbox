@@ -1,0 +1,17 @@
+# env & secrets
+.env
+.env.*
+!.env.example
+
+# python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.envrc
+
+# editors
+.vscode/
+.idea/
