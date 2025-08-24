@@ -23,6 +23,14 @@ Each character replies **in their own personality** using an OpenAI-compatible A
 
 ---
 
+##  Example Chats
+
+<img width="937" height="475" alt="image" src="https://github.com/user-attachments/assets/b0547da1-e083-4c7a-9b57-cb0c9790cda4" />
+<img width="1049" height="443" alt="image" src="https://github.com/user-attachments/assets/7cb11ae9-3aea-4fd6-b2ab-a67ba3641402" />
+
+
+
+---
 ## 📂 Project Structure
 
 ```
