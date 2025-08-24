@@ -1,6 +1,9 @@
-Perfect 👍 here’s the **complete README.md** content you can copy–paste straight into a file called `README.md` in your project root.
 
----
+## 🌍 Try It Live
+
+You don’t need to set up anything — just join our public server and start chatting with Harry, Hermione, Ron, Snape, Dumbledore, or Luna using `/chat`:
+
+👉 [**Join the bot server**](https://discord.gg/YOUR_INVITE_LINK_HERE)
 
 ```markdown
 # 🧙✨ Harry Potter Discord Chat Bot  
